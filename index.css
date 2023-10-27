@@ -21,6 +21,8 @@ h1 {
 
 .pizza {
     background-color: #ffda46;
+    font-family: serif;
+    font-size: 19px;
     color: #333;
     padding: 20px;
     margin: 20px;
@@ -30,7 +32,7 @@ h1 {
 }
 
 .pizza:hover {
-    background-color: #ffdd33;
+    background-color: #c9ae2a;
 }
 
 .modal {
